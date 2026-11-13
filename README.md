@@ -13,4 +13,3 @@ Para a navegação, instalei o `react-router-dom` e configurei no arquivo `App.t
 
 Além disso, desenvolvi as páginas Sobre, para apresentar informações sobre o sistema, e Contatos, com um pequeno formulário contendo campos para nome e e-mail. Por fim, criei a página NotFound para identificar quando o usuário acessa uma rota inválida.
 
-Com essa atividade, pude praticar conceitos de React.js e TypeScript, como componentes, Props, interfaces, arrays e configuração de rotas.
